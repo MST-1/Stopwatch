@@ -1,0 +1,49 @@
+body{
+  
+background-color: chartreuse;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+
+
+}
+
+.Container{
+ color: rgb(251, 244, 244);
+ text-shadow: 1px 2px 2px #112938;
+ 
+
+}
+
+.timer{
+font-size: 100px;
+font-weight: bold;
+
+}
+
+.txt{
+ font-size: 40px;
+font-weight: lighter;
+
+}
+
+.controller{
+
+    text-align: center;
+    margin-top: 50px;
+    
+
+}
+.btn{
+padding: 7px 25px;
+font-size: 20px;
+margin: 0px 10px;
+color: aliceblue;
+background-color: rgb(44, 45, 42);
+border: 0px;
+cursor: pointer;
+
+}
+
+
